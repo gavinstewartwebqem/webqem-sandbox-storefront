@@ -1,0 +1,7 @@
+mountpoints:
+  /:
+    url: https://github.com/gavinstewartwebqem/webqem-sandbox-storefront
+    type: markup
+
+folders:
+  /products/: /products/default
