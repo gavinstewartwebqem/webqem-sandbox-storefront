@@ -1,5 +1,5 @@
 {
   "project": "My Project",
   "editUrlLabel": "Document Authoring",
-  "editUrlPattern": "https://content.da.live/gavinstewartwebqem/webqem-sandbox-storefront/"
+  "editUrlPattern": "https://content.da.live/edit#/gavinstewartwebqem/webqem-sandbox-storefront/{{pathname}}"
 }
